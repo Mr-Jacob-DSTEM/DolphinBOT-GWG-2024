@@ -1,0 +1,24 @@
+EX:
+Date: current date
+Version: current version
+Description: Description of what changes I've made to the program
+--------------------------------------------------------------
+--------------------------------------------------------------
+Date: 11.1.24
+Version: 0.0.1
+Description: Code setup, worked out the program structure and decided what I want it to do, gave it the name DolphinBOT
+--------------------------------------------------------------
+--------------------------------------------------------------
+Date: 11.2.24
+Version: 0.0.2
+Description: Updated functionality. Query system has been implemented. Can now tell the date, Has a catch-all code for when the solution to a question is unknown. 
+--------------------------------------------------------------
+--------------------------------------------------------------
+Date: 11.4.24
+Version 0.1.0
+Description: Finished core functionality and wrote the joke function as well containing 3 jokes
+--------------------------------------------------------------
+--------------------------------------------------------------
+Date: 11.7.24
+Version: 0.1.1
+Description: added favorite color function and favorite song function to expand the bot's personality
