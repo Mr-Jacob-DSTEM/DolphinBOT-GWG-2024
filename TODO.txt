@@ -1,0 +1,17 @@
+features to be added: 
+
+core:
+- who am i? (dolphinBOT)            (Done)
+- what is Dolphin STEM academy?     (DONE)
+- what is STEM?                     (DONE)
+- Datetime telling                  (DONE)
+- End program feature               (DONE)
+
+Edu:
+- how to solve mathematical operations
+- book examples by genre 
+
+Entertainment / bot personality:
+- tell me a joke (include a bank to pick from)  (DONE)
+- favorite song 
+- favorite color                                (DONE)
